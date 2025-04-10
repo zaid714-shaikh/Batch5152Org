@@ -11,4 +11,12 @@ public class Homecontroller {
 		System.out.println("Hi");
 		System.out.println("Dev-2 chanegs");
 	}
+
+       @PostMapping("/")
+	public void m4() {
+		System.out.println("Hi");
+		System.out.println("Dev-2 chanegs");
+	}
+
+	
 }
